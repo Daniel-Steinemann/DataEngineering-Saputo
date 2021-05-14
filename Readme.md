@@ -61,4 +61,3 @@ CMD [ "python", "./main_test_locally.py" ]
  
 ## Authors
 * **Luis Fuentes** - *2020-08-10*
-* **Daniel Steinemann** - *2020-06-30*
